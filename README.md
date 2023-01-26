@@ -1,2 +1,2 @@
 # SocialXsinglepage
-my first single page react website 
+my first single page react.js website 
